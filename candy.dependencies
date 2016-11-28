@@ -1,6 +1,6 @@
 [
   {
-    "repository": "device_lge_g4-common",
+    "repository": "CandyDevices/device_lge_g4-common",
     "target_path": "device/lge/g4-common"
   }
 ]
